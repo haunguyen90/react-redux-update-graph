@@ -1,0 +1,26 @@
+.home-humility{
+  text-align: center;
+}
+
+.home-fa-twitter{
+  margin-left: 2em;
+}
+
+.action-buttons{
+  text-align: center;
+}
+
+.btn{
+  padding: 1rem 3rem;
+  margin: 0 25px;
+}
+
+.btn-red{
+  background-color: red;
+}
+.btn-blue{
+  background-color: blue;
+}
+.btn-yellow{
+  background-color: yellow;
+}
